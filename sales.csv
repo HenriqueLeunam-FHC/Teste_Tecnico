@@ -1,0 +1,201 @@
+order_id,customer_name,product_name,quantity,price,order_date,region,revenue,discount
+1,maria oliveira,Bateria 90Ah,1,481.37,2025-01-01,Nordeste,481.37,0.25
+2,Jose da Silva ,Pastilha Freio Dianteira,1,454.57,2025-01-02,Nordeste,454.57,0.1
+3,Ana Souza,bateria 60ah ,3,113.98,2025-01-03,Sul,341.94,0.2
+4,Maria Oliveira ,Pastilha de Freio,2,53.29,2025-01-04,Norte,106.58,0.2
+5,MARIA OLIVEIRA,Pastilha Freio Dianteira,4,68.37,2025-01-05,Sudeste,273.48,0.2
+6,maria oliveira,BATERIA 60AH,3,28.75,2025-01-06,Sudeste,86.25,0.1
+7,ana souza,Amortecedor Traseiro,1,65.33,2025-01-07,Norte,65.33,0.1
+8,jose da silva,AMORTECEDOR,2,347.84,2025-01-08,Sul,695.68,0.25
+9,maria oliveira,AMORTECEDOR,3,54.17,2025-01-09,Nordeste,162.51,0.05
+10,Ana Souza,Bateria 60Ah,2,173.11,2025-01-10,Sudeste,346.22,0.25
+11,Ana Souza,Amortecedor Traseiro,3,425.54,2025-01-11,Centro-Oeste,1276.6200000000001,0.15
+12,Maria Oliveira ,Bateria 90Ah,2,31.17,2025-01-12,Centro-Oeste,62.34,0.0
+13,MARIA OLIVEIRA,pastilha freio,1,410.94,2025-01-13,Norte,410.94,0.2
+14,Jose da Silva ,Amortecedor,4,155.29,2025-01-14,Sul,621.16,0.05
+15,Maria Oliveira ,amortecedor ,1,76.72,2025-01-15,Sudeste,76.72,0.0
+16,Maria Oliveira ,AMORTECEDOR,4,354.43,2025-01-16,Sul,1417.72,0.05
+17,jose da silva,PASTILHA FREIO,2,321.89,2025-01-17,Sudeste,643.78,0.3
+18,Maria Oliveira,AMORTECEDOR,3,441.19,2025-01-18,Norte,1323.57,0.25
+19,MARIA OLIVEIRA,Pastilha Freio Dianteira,1,372.83,2025-01-19,Norte,372.83,0.1
+20,Jose da Silva,AMORTECEDOR,4,405.67,2025-01-20,Centro-Oeste,1622.68,0.2
+21,Maria Oliveira ,bateria 60ah ,1,155.38,2025-01-21,Sul,155.38,0.25
+22,Ana Souza ,AMORTECEDOR,4,105.17,2025-01-22,Centro-Oeste,420.68,0.0
+23,Maria Oliveira,Amortecedor,1,380.3,2025-01-23,Sul,380.3,0.3
+24,Jose da Silva,Amortecedor,4,407.28,2025-01-24,Centro-Oeste,1629.12,0.3
+25,Ana Souza ,Bateria 90Ah,4,495.44,2025-01-25,Nordeste,1981.76,0.3
+26,MARIA OLIVEIRA,Pastilha de Freio,2,218.06,2025-01-26,Nordeste,436.12,0.0
+27,JOSE DA SILVA,pastilha freio,4,198.57,2025-01-27,Nordeste,794.28,0.0
+28,Ana Souza ,PASTILHA FREIO,2,392.68,2025-01-28,Nordeste,785.36,0.0
+29,ana souza,AMORTECEDOR,4,183.59,2025-01-29,Sudeste,734.36,0.0
+30,Maria Oliveira,AMORTECEDOR,3,466.76,2025-01-30,Nordeste,1400.28,0.3
+31,Ana Souza ,amortecedor ,3,432.04,2025-01-31,Norte,1296.1200000000001,0.3
+32,ANA SOUZA,Amortecedor,3,225.92,2025-02-01,Norte,677.76,0.05
+33,JOSE DA SILVA,PASTILHA FREIO,4,380.42,2025-02-02,Sudeste,1521.68,0.25
+34,Ana Souza,Bateria 90Ah,2,382.18,2025-02-03,Nordeste,764.36,0.2
+35,Ana Souza,Bateria 60Ah,2,69.5,2025-02-04,Nordeste,139.0,0.1
+36,ana souza,Pastilha de Freio,4,453.23,2025-02-05,Nordeste,1812.92,0.3
+37,Ana Souza ,pastilha freio,3,262.52,2025-02-06,Centro-Oeste,787.56,0.1
+38,Ana Souza ,Amortecedor Traseiro,3,416.7,2025-02-07,Sul,1250.1,0.25
+39,jose da silva,pastilha freio,2,173.62,2025-02-08,Centro-Oeste,347.24,0.25
+40,Ana Souza ,bateria 60ah ,3,449.85,2025-02-09,Sul,1349.5500000000002,0.1
+41,maria oliveira,Pastilha Freio Dianteira,1,206.82,2025-02-10,Nordeste,206.82,0.3
+42,Jose da Silva ,bateria 60ah ,2,25.2,2025-02-11,Nordeste,50.4,0.1
+43,ANA SOUZA,AMORTECEDOR,3,454.58,2025-02-12,Centro-Oeste,1363.74,0.05
+44,jose da silva,Pastilha de Freio,2,63.82,2025-02-13,Centro-Oeste,127.64,0.15
+45,MARIA OLIVEIRA,Pastilha Freio Dianteira,1,173.27,2025-02-14,Sul,173.27,0.3
+46,jose da silva,PASTILHA FREIO,2,476.03,2025-02-15,Norte,952.06,0.3
+47,maria oliveira,Amortecedor Traseiro,2,476.29,2025-02-16,Sul,952.58,0.2
+48,MARIA OLIVEIRA,Amortecedor,2,295.25,2025-02-17,Centro-Oeste,590.5,0.0
+49,ANA SOUZA,Pastilha de Freio,2,323.28,2025-02-18,Centro-Oeste,646.56,0.15
+50,maria oliveira,Pastilha de Freio,1,235.25,2025-02-19,Sudeste,235.25,0.25
+51,Jose da Silva,bateria 60ah ,4,160.74,2025-02-20,Centro-Oeste,642.96,0.3
+52,Jose da Silva ,AMORTECEDOR,2,177.76,2025-02-21,Sudeste,355.52,0.1
+53,ANA SOUZA,BATERIA 60AH,2,342.81,2025-02-22,Norte,685.62,0.15
+54,Ana Souza ,Bateria 90Ah,3,381.14,2025-02-23,Sul,1143.42,0.2
+55,Jose da Silva,bateria 60ah ,2,399.96,2025-02-24,Sul,799.92,0.25
+56,ana souza,Pastilha de Freio,3,399.02,2025-02-25,Sudeste,1197.06,0.0
+57,ANA SOUZA,amortecedor ,4,63.78,2025-02-26,Sul,255.12,0.0
+58,ana souza,Amortecedor Traseiro,1,257.32,2025-02-27,Centro-Oeste,257.32,0.2
+59,MARIA OLIVEIRA,Bateria 90Ah,1,47.63,2025-02-28,Nordeste,47.63,0.2
+60,Jose da Silva,bateria 60ah ,4,283.77,2025-03-01,Sudeste,1135.08,0.1
+61,Jose da Silva ,Amortecedor Traseiro,1,231.93,2025-03-02,Sul,231.93,0.3
+62,Ana Souza ,amortecedor ,4,446.1,2025-03-03,Sudeste,1784.4,0.0
+63,Ana Souza ,Bateria 60Ah,4,188.44,2025-03-04,Sudeste,753.76,0.25
+64,maria oliveira,amortecedor ,4,76.19,2025-03-05,Nordeste,304.76,0.15
+65,Ana Souza ,amortecedor ,1,88.64,2025-03-06,Centro-Oeste,88.64,0.25
+66,Maria Oliveira ,Amortecedor Traseiro,3,385.53,2025-03-07,Sudeste,1156.59,0.05
+67,jose da silva,pastilha freio,4,316.74,2025-03-08,Sul,1266.96,0.05
+68,JOSE DA SILVA,Amortecedor Traseiro,2,68.54,2025-03-09,Norte,137.08,0.2
+69,Jose da Silva ,BATERIA 60AH,1,60.37,2025-03-10,Sudeste,60.37,0.1
+70,Jose da Silva,AMORTECEDOR,4,356.47,2025-03-11,Sudeste,1425.88,0.05
+71,Maria Oliveira ,Pastilha Freio Dianteira,4,54.93,2025-03-12,Nordeste,219.72,0.0
+72,Jose da Silva ,pastilha freio,2,414.49,2025-03-13,Centro-Oeste,828.98,0.25
+73,Jose da Silva,Amortecedor,3,359.0,2025-03-14,Norte,1077.0,0.25
+74,Maria Oliveira,Pastilha Freio Dianteira,3,59.05,2025-03-15,Sul,177.14999999999998,0.2
+75,Maria Oliveira,AMORTECEDOR,3,60.72,2025-03-16,Norte,182.16,0.3
+76,ana souza,bateria 60ah ,4,493.59,2025-03-17,Sul,1974.36,0.3
+77,Jose da Silva ,Bateria 90Ah,4,199.65,2025-03-18,Centro-Oeste,798.6,0.15
+78,Maria Oliveira,BATERIA 60AH,4,197.91,2025-03-19,Sul,791.64,0.2
+79,Jose da Silva,BATERIA 60AH,1,410.14,2025-03-20,Nordeste,410.14,0.15
+80,ana souza,Amortecedor,2,474.68,2025-03-21,Nordeste,949.36,0.3
+81,Ana Souza ,pastilha freio,4,493.28,2025-03-22,Nordeste,1973.12,0.2
+82,Jose da Silva,Bateria 60Ah,2,381.62,2025-03-23,Nordeste,763.24,0.2
+83,ana souza,amortecedor ,2,200.6,2025-03-24,Norte,401.2,0.2
+84,Jose da Silva ,pastilha freio,3,60.08,2025-03-25,Centro-Oeste,180.24,0.3
+85,Maria Oliveira ,Bateria 90Ah,1,393.03,2025-03-26,Sul,393.03,0.15
+86,maria oliveira,Bateria 60Ah,4,288.03,2025-03-27,Sul,1152.12,0.15
+87,Ana Souza ,BATERIA 60AH,3,223.63,2025-03-28,Nordeste,670.89,0.2
+88,ANA SOUZA,Amortecedor Traseiro,3,455.05,2025-03-29,Nordeste,1365.15,0.05
+89,Maria Oliveira ,Bateria 90Ah,4,73.37,2025-03-30,Sudeste,293.48,0.1
+90,MARIA OLIVEIRA,AMORTECEDOR,2,256.46,2025-03-31,Centro-Oeste,512.92,0.3
+91,Jose da Silva,Amortecedor,3,25.45,2025-04-01,Norte,76.35,0.1
+92,MARIA OLIVEIRA,AMORTECEDOR,2,244.96,2025-04-02,Sul,489.92,0.1
+93,Maria Oliveira ,Bateria 90Ah,1,47.03,2025-04-03,Sudeste,47.03,0.15
+94,ana souza,PASTILHA FREIO,2,77.03,2025-04-04,Sudeste,154.06,0.15
+95,ANA SOUZA,PASTILHA FREIO,1,76.41,2025-04-05,Sul,76.41,0.05
+96,Ana Souza ,bateria 60ah ,2,331.62,2025-04-06,Norte,663.24,0.1
+97,Ana Souza ,pastilha freio,3,378.1,2025-04-07,Sudeste,1134.3000000000002,0.1
+98,Ana Souza ,BATERIA 60AH,3,300.02,2025-04-08,Sudeste,900.06,0.2
+99,ANA SOUZA,BATERIA 60AH,1,481.84,2025-04-09,Centro-Oeste,481.84,0.15
+100,JOSE DA SILVA,amortecedor ,4,199.94,2025-04-10,Norte,799.76,0.1
+101,ANA SOUZA,amortecedor ,1,157.14,2025-04-11,Sudeste,157.14,0.25
+102,maria oliveira,amortecedor ,1,436.93,2025-04-12,Norte,436.93,0.05
+103,ANA SOUZA,Amortecedor Traseiro,2,127.33,2025-04-13,Sul,254.66,0.25
+104,Maria Oliveira ,Pastilha Freio Dianteira,2,482.35,2025-04-14,Nordeste,964.7,0.25
+105,JOSE DA SILVA,Pastilha de Freio,1,25.83,2025-04-15,Sudeste,25.83,0.3
+106,Ana Souza ,Pastilha Freio Dianteira,3,485.54,2025-04-16,Centro-Oeste,1456.6200000000001,0.3
+107,Maria Oliveira ,AMORTECEDOR,2,40.72,2025-04-17,Sul,81.44,0.05
+108,Maria Oliveira ,Pastilha Freio Dianteira,4,447.75,2025-04-18,Norte,1791.0,0.25
+109,Ana Souza,Amortecedor Traseiro,2,273.3,2025-04-19,Sul,546.6,0.1
+110,jose da silva,bateria 60ah ,2,496.62,2025-04-20,Sudeste,993.24,0.15
+111,JOSE DA SILVA,AMORTECEDOR,4,55.42,2025-04-21,Norte,221.68,0.05
+112,Maria Oliveira ,Pastilha Freio Dianteira,1,285.85,2025-04-22,Nordeste,285.85,0.2
+113,jose da silva,Amortecedor Traseiro,4,485.27,2025-04-23,Sul,1941.08,0.25
+114,jose da silva,Pastilha de Freio,1,271.09,2025-04-24,Sudeste,271.09,0.05
+115,JOSE DA SILVA,Pastilha Freio Dianteira,1,322.11,2025-04-25,Centro-Oeste,322.11,0.0
+116,Ana Souza,Amortecedor Traseiro,1,353.96,2025-04-26,Norte,353.96,0.0
+117,MARIA OLIVEIRA,amortecedor ,4,238.18,2025-04-27,Sul,952.72,0.3
+118,ana souza,BATERIA 60AH,1,321.23,2025-04-28,Sul,321.23,0.15
+119,maria oliveira,amortecedor ,3,300.47,2025-04-29,Nordeste,901.4100000000001,0.1
+120,ana souza,BATERIA 60AH,4,452.56,2025-04-30,Nordeste,1810.24,0.15
+121,ANA SOUZA,Amortecedor,3,41.81,2025-05-01,Centro-Oeste,125.43,0.15
+122,Ana Souza ,Amortecedor,1,154.86,2025-05-02,Centro-Oeste,154.86,0.15
+123,maria oliveira,Amortecedor,2,476.2,2025-05-03,Sudeste,952.4,0.15
+124,ANA SOUZA,Pastilha de Freio,1,447.33,2025-05-04,Sudeste,447.33,0.2
+125,Maria Oliveira ,amortecedor ,3,238.72,2025-05-05,Centro-Oeste,716.16,0.2
+126,Ana Souza ,BATERIA 60AH,3,317.66,2025-05-06,Centro-Oeste,952.98,0.3
+127,Jose da Silva,Amortecedor Traseiro,4,153.14,2025-05-07,Norte,612.56,0.05
+128,JOSE DA SILVA,AMORTECEDOR,2,110.3,2025-05-08,Nordeste,220.6,0.0
+129,maria oliveira,Amortecedor Traseiro,4,242.58,2025-05-09,Sudeste,970.32,0.15
+130,maria oliveira,AMORTECEDOR,3,189.61,2025-05-10,Nordeste,568.83,0.3
+131,Maria Oliveira ,PASTILHA FREIO,1,300.15,2025-05-11,Nordeste,300.15,0.05
+132,MARIA OLIVEIRA,Amortecedor Traseiro,2,57.31,2025-05-12,Centro-Oeste,114.62,0.0
+133,jose da silva,Pastilha Freio Dianteira,1,487.71,2025-05-13,Norte,487.71,0.25
+134,Ana Souza ,Pastilha Freio Dianteira,1,493.38,2025-05-14,Sul,493.38,0.1
+135,Maria Oliveira ,pastilha freio,2,355.12,2025-05-15,Norte,710.24,0.2
+136,Maria Oliveira,amortecedor ,4,277.33,2025-05-16,Norte,1109.32,0.25
+137,Ana Souza,AMORTECEDOR,1,168.57,2025-05-17,Nordeste,168.57,0.0
+138,jose da silva,AMORTECEDOR,3,410.62,2025-05-18,Norte,1231.8600000000001,0.25
+139,JOSE DA SILVA,Bateria 90Ah,1,348.67,2025-05-19,Sudeste,348.67,0.1
+140,jose da silva,bateria 60ah ,2,98.06,2025-05-20,Nordeste,196.12,0.3
+141,MARIA OLIVEIRA,amortecedor ,2,457.25,2025-05-21,Sudeste,914.5,0.0
+142,jose da silva,Pastilha de Freio,2,414.82,2025-05-22,Sul,829.64,0.25
+143,JOSE DA SILVA,pastilha freio,4,475.9,2025-05-23,Nordeste,1903.6,0.2
+144,MARIA OLIVEIRA,Pastilha de Freio,1,368.35,2025-05-24,Sul,368.35,0.2
+145,ana souza,Pastilha de Freio,4,314.44,2025-05-25,Nordeste,1257.76,0.05
+146,maria oliveira,Pastilha de Freio,4,220.76,2025-05-26,Centro-Oeste,883.04,0.25
+147,maria oliveira,amortecedor ,2,467.71,2025-05-27,Norte,935.42,0.15
+148,Ana Souza,Pastilha de Freio,2,435.71,2025-05-28,Centro-Oeste,871.42,0.25
+149,ANA SOUZA,Pastilha Freio Dianteira,4,41.7,2025-05-29,Sul,166.8,0.3
+150,ana souza,bateria 60ah ,1,32.66,2025-05-30,Norte,32.66,0.0
+151,ana souza,bateria 60ah ,3,200.7,2025-05-31,Nordeste,602.0999999999999,0.0
+152,Ana Souza ,Amortecedor,4,409.07,2025-06-01,Norte,1636.28,0.3
+153,jose da silva,PASTILHA FREIO,1,493.89,2025-06-02,Sudeste,493.89,0.25
+154,maria oliveira,AMORTECEDOR,2,92.2,2025-06-03,Norte,184.4,0.3
+155,JOSE DA SILVA,Bateria 90Ah,2,305.18,2025-06-04,Sudeste,610.36,0.1
+156,Jose da Silva ,AMORTECEDOR,1,202.83,2025-06-05,Norte,202.83,0.3
+157,Jose da Silva ,PASTILHA FREIO,3,485.56,2025-06-06,Sudeste,1456.68,0.2
+158,MARIA OLIVEIRA,Bateria 90Ah,2,424.22,2025-06-07,Sul,848.44,0.3
+159,maria oliveira,amortecedor ,2,422.4,2025-06-08,Centro-Oeste,844.8,0.0
+160,maria oliveira,Amortecedor Traseiro,2,244.97,2025-06-09,Nordeste,489.94,0.2
+161,Ana Souza,amortecedor ,1,219.11,2025-06-10,Norte,219.11,0.0
+162,Jose da Silva ,AMORTECEDOR,4,151.24,2025-06-11,Centro-Oeste,604.96,0.05
+163,maria oliveira,AMORTECEDOR,2,47.06,2025-06-12,Nordeste,94.12,0.15
+164,Ana Souza,Bateria 90Ah,4,435.07,2025-06-13,Nordeste,1740.28,0.0
+165,jose da silva,Bateria 90Ah,3,410.19,2025-06-14,Sudeste,1230.57,0.2
+166,Maria Oliveira,PASTILHA FREIO,2,499.86,2025-06-15,Sul,999.72,0.05
+167,Ana Souza ,Pastilha de Freio,2,498.39,2025-06-16,Sul,996.78,0.0
+168,Jose da Silva,amortecedor ,3,286.61,2025-06-17,Centro-Oeste,859.83,0.1
+169,ana souza,Bateria 90Ah,2,389.11,2025-06-18,Sul,778.22,0.3
+170,ANA SOUZA,BATERIA 60AH,4,473.49,2025-06-19,Norte,1893.96,0.15
+171,MARIA OLIVEIRA,PASTILHA FREIO,1,427.83,2025-06-20,Sul,427.83,0.0
+172,Maria Oliveira,Pastilha Freio Dianteira,4,138.73,2025-06-21,Centro-Oeste,554.92,0.05
+173,Ana Souza ,AMORTECEDOR,1,236.26,2025-06-22,Sul,236.26,0.1
+174,Ana Souza ,PASTILHA FREIO,1,82.0,2025-06-23,Norte,82.0,0.25
+175,Ana Souza ,amortecedor ,4,477.94,2025-06-24,Sudeste,1911.76,0.05
+176,Ana Souza ,Bateria 90Ah,4,310.96,2025-06-25,Centro-Oeste,1243.84,0.3
+177,Jose da Silva ,AMORTECEDOR,4,129.75,2025-06-26,Sudeste,519.0,0.05
+178,Ana Souza,Amortecedor Traseiro,4,342.42,2025-06-27,Sudeste,1369.68,0.1
+179,ana souza,PASTILHA FREIO,3,316.7,2025-06-28,Sudeste,950.0999999999999,0.05
+180,maria oliveira,pastilha freio,2,191.92,2025-06-29,Nordeste,383.84,0.1
+181,Ana Souza ,AMORTECEDOR,1,74.51,2025-06-30,Nordeste,74.51,0.0
+182,ANA SOUZA,amortecedor ,4,342.36,2025-07-01,Sudeste,1369.44,0.1
+183,maria oliveira,Amortecedor,4,269.75,2025-07-02,Centro-Oeste,1079.0,0.1
+184,JOSE DA SILVA,BATERIA 60AH,4,390.71,2025-07-03,Norte,1562.84,0.15
+185,JOSE DA SILVA,Bateria 60Ah,3,269.68,2025-07-04,Norte,809.04,0.1
+186,ANA SOUZA,Pastilha de Freio,4,429.05,2025-07-05,Sul,1716.2,0.1
+187,Ana Souza,Bateria 60Ah,4,284.92,2025-07-06,Centro-Oeste,1139.68,0.25
+188,ANA SOUZA,amortecedor ,4,289.25,2025-07-07,Nordeste,1157.0,0.0
+189,Jose da Silva ,Pastilha Freio Dianteira,2,440.79,2025-07-08,Sudeste,881.58,0.3
+190,ANA SOUZA,Pastilha Freio Dianteira,3,213.67,2025-07-09,Sul,641.01,0.15
+191,jose da silva,Amortecedor,4,84.33,2025-07-10,Norte,337.32,0.25
+192,maria oliveira,Pastilha de Freio,1,33.82,2025-07-11,Nordeste,33.82,0.2
+193,Maria Oliveira,pastilha freio,1,382.47,2025-07-12,Nordeste,382.47,0.0
+194,Maria Oliveira ,Amortecedor,1,317.75,2025-07-13,Sudeste,317.75,0.0
+195,Ana Souza,bateria 60ah ,3,357.96,2025-07-14,Norte,1073.8799999999999,0.2
+196,ANA SOUZA,Bateria 60Ah,3,122.22,2025-07-15,Centro-Oeste,366.65999999999997,0.3
+197,MARIA OLIVEIRA,Amortecedor,1,85.46,2025-07-16,Nordeste,85.46,0.1
+198,JOSE DA SILVA,Bateria 60Ah,4,26.98,2025-07-17,Sudeste,107.92,0.25
+199,jose da silva,AMORTECEDOR,3,188.28,2025-07-18,Centro-Oeste,564.84,0.05
+200,ana souza,Pastilha Freio Dianteira,1,303.16,2025-07-19,Norte,303.16,0.15
