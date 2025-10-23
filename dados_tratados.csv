@@ -1,0 +1,201 @@
+,customer_name,product_name,valor_desconto
+0,Maria Oliveira,Bateria 90Ah,120.34
+1,Jose Da Silva ,Pastilha Freio Dianteira,45.46
+2,Ana Souza,Bateria 60Ah ,68.39
+3,Maria Oliveira ,Pastilha De Freio,21.32
+4,Maria Oliveira,Pastilha Freio Dianteira,54.7
+5,Maria Oliveira,Bateria 60Ah,8.62
+6,Ana Souza,Amortecedor Traseiro,6.53
+7,Jose Da Silva,Amortecedor,173.92
+8,Maria Oliveira,Amortecedor,8.13
+9,Ana Souza,Bateria 60Ah,86.56
+10,Ana Souza,Amortecedor Traseiro,191.49
+11,Maria Oliveira ,Bateria 90Ah,0.0
+12,Maria Oliveira,Pastilha Freio,82.19
+13,Jose Da Silva ,Amortecedor,31.06
+14,Maria Oliveira ,Amortecedor ,0.0
+15,Maria Oliveira ,Amortecedor,70.89
+16,Jose Da Silva,Pastilha Freio,193.13
+17,Maria Oliveira,Amortecedor,330.89
+18,Maria Oliveira,Pastilha Freio Dianteira,37.28
+19,Jose Da Silva,Amortecedor,324.54
+20,Maria Oliveira ,Bateria 60Ah ,38.84
+21,Ana Souza ,Amortecedor,0.0
+22,Maria Oliveira,Amortecedor,114.09
+23,Jose Da Silva,Amortecedor,488.74
+24,Ana Souza ,Bateria 90Ah,594.53
+25,Maria Oliveira,Pastilha De Freio,0.0
+26,Jose Da Silva,Pastilha Freio,0.0
+27,Ana Souza ,Pastilha Freio,0.0
+28,Ana Souza,Amortecedor,0.0
+29,Maria Oliveira,Amortecedor,420.08
+30,Ana Souza ,Amortecedor ,388.84
+31,Ana Souza,Amortecedor,33.89
+32,Jose Da Silva,Pastilha Freio,380.42
+33,Ana Souza,Bateria 90Ah,152.87
+34,Ana Souza,Bateria 60Ah,13.9
+35,Ana Souza,Pastilha De Freio,543.88
+36,Ana Souza ,Pastilha Freio,78.76
+37,Ana Souza ,Amortecedor Traseiro,312.52
+38,Jose Da Silva,Pastilha Freio,86.81
+39,Ana Souza ,Bateria 60Ah ,134.96
+40,Maria Oliveira,Pastilha Freio Dianteira,62.05
+41,Jose Da Silva ,Bateria 60Ah ,5.04
+42,Ana Souza,Amortecedor,68.19
+43,Jose Da Silva,Pastilha De Freio,19.15
+44,Maria Oliveira,Pastilha Freio Dianteira,51.98
+45,Jose Da Silva,Pastilha Freio,285.62
+46,Maria Oliveira,Amortecedor Traseiro,190.52
+47,Maria Oliveira,Amortecedor,0.0
+48,Ana Souza,Pastilha De Freio,96.98
+49,Maria Oliveira,Pastilha De Freio,58.81
+50,Jose Da Silva,Bateria 60Ah ,192.89
+51,Jose Da Silva ,Amortecedor,35.55
+52,Ana Souza,Bateria 60Ah,102.84
+53,Ana Souza ,Bateria 90Ah,228.68
+54,Jose Da Silva,Bateria 60Ah ,199.98
+55,Ana Souza,Pastilha De Freio,0.0
+56,Ana Souza,Amortecedor ,0.0
+57,Ana Souza,Amortecedor Traseiro,51.46
+58,Maria Oliveira,Bateria 90Ah,9.53
+59,Jose Da Silva,Bateria 60Ah ,113.51
+60,Jose Da Silva ,Amortecedor Traseiro,69.58
+61,Ana Souza ,Amortecedor ,0.0
+62,Ana Souza ,Bateria 60Ah,188.44
+63,Maria Oliveira,Amortecedor ,45.71
+64,Ana Souza ,Amortecedor ,22.16
+65,Maria Oliveira ,Amortecedor Traseiro,57.83
+66,Jose Da Silva,Pastilha Freio,63.35
+67,Jose Da Silva,Amortecedor Traseiro,27.42
+68,Jose Da Silva ,Bateria 60Ah,6.04
+69,Jose Da Silva,Amortecedor,71.29
+70,Maria Oliveira ,Pastilha Freio Dianteira,0.0
+71,Jose Da Silva ,Pastilha Freio,207.24
+72,Jose Da Silva,Amortecedor,269.25
+73,Maria Oliveira,Pastilha Freio Dianteira,35.43
+74,Maria Oliveira,Amortecedor,54.65
+75,Ana Souza,Bateria 60Ah ,592.31
+76,Jose Da Silva ,Bateria 90Ah,119.79
+77,Maria Oliveira,Bateria 60Ah,158.33
+78,Jose Da Silva,Bateria 60Ah,61.52
+79,Ana Souza,Amortecedor,284.81
+80,Ana Souza ,Pastilha Freio,394.62
+81,Jose Da Silva,Bateria 60Ah,152.65
+82,Ana Souza,Amortecedor ,80.24
+83,Jose Da Silva ,Pastilha Freio,54.07
+84,Maria Oliveira ,Bateria 90Ah,58.95
+85,Maria Oliveira,Bateria 60Ah,172.82
+86,Ana Souza ,Bateria 60Ah,134.18
+87,Ana Souza,Amortecedor Traseiro,68.26
+88,Maria Oliveira ,Bateria 90Ah,29.35
+89,Maria Oliveira,Amortecedor,153.88
+90,Jose Da Silva,Amortecedor,7.64
+91,Maria Oliveira,Amortecedor,48.99
+92,Maria Oliveira ,Bateria 90Ah,7.05
+93,Ana Souza,Pastilha Freio,23.11
+94,Ana Souza,Pastilha Freio,3.82
+95,Ana Souza ,Bateria 60Ah ,66.32
+96,Ana Souza ,Pastilha Freio,113.43
+97,Ana Souza ,Bateria 60Ah,180.01
+98,Ana Souza,Bateria 60Ah,72.28
+99,Jose Da Silva,Amortecedor ,79.98
+100,Ana Souza,Amortecedor ,39.28
+101,Maria Oliveira,Amortecedor ,21.85
+102,Ana Souza,Amortecedor Traseiro,63.66
+103,Maria Oliveira ,Pastilha Freio Dianteira,241.18
+104,Jose Da Silva,Pastilha De Freio,7.75
+105,Ana Souza ,Pastilha Freio Dianteira,436.99
+106,Maria Oliveira ,Amortecedor,4.07
+107,Maria Oliveira ,Pastilha Freio Dianteira,447.75
+108,Ana Souza,Amortecedor Traseiro,54.66
+109,Jose Da Silva,Bateria 60Ah ,148.99
+110,Jose Da Silva,Amortecedor,11.08
+111,Maria Oliveira ,Pastilha Freio Dianteira,57.17
+112,Jose Da Silva,Amortecedor Traseiro,485.27
+113,Jose Da Silva,Pastilha De Freio,13.55
+114,Jose Da Silva,Pastilha Freio Dianteira,0.0
+115,Ana Souza,Amortecedor Traseiro,0.0
+116,Maria Oliveira,Amortecedor ,285.82
+117,Ana Souza,Bateria 60Ah,48.18
+118,Maria Oliveira,Amortecedor ,90.14
+119,Ana Souza,Bateria 60Ah,271.54
+120,Ana Souza,Amortecedor,18.81
+121,Ana Souza ,Amortecedor,23.23
+122,Maria Oliveira,Amortecedor,142.86
+123,Ana Souza,Pastilha De Freio,89.47
+124,Maria Oliveira ,Amortecedor ,143.23
+125,Ana Souza ,Bateria 60Ah,285.89
+126,Jose Da Silva,Amortecedor Traseiro,30.63
+127,Jose Da Silva,Amortecedor,0.0
+128,Maria Oliveira,Amortecedor Traseiro,145.55
+129,Maria Oliveira,Amortecedor,170.65
+130,Maria Oliveira ,Pastilha Freio,15.01
+131,Maria Oliveira,Amortecedor Traseiro,0.0
+132,Jose Da Silva,Pastilha Freio Dianteira,121.93
+133,Ana Souza ,Pastilha Freio Dianteira,49.34
+134,Maria Oliveira ,Pastilha Freio,142.05
+135,Maria Oliveira,Amortecedor ,277.33
+136,Ana Souza,Amortecedor,0.0
+137,Jose Da Silva,Amortecedor,307.96
+138,Jose Da Silva,Bateria 90Ah,34.87
+139,Jose Da Silva,Bateria 60Ah ,58.84
+140,Maria Oliveira,Amortecedor ,0.0
+141,Jose Da Silva,Pastilha De Freio,207.41
+142,Jose Da Silva,Pastilha Freio,380.72
+143,Maria Oliveira,Pastilha De Freio,73.67
+144,Ana Souza,Pastilha De Freio,62.89
+145,Maria Oliveira,Pastilha De Freio,220.76
+146,Maria Oliveira,Amortecedor ,140.31
+147,Ana Souza,Pastilha De Freio,217.86
+148,Ana Souza,Pastilha Freio Dianteira,50.04
+149,Ana Souza,Bateria 60Ah ,0.0
+150,Ana Souza,Bateria 60Ah ,0.0
+151,Ana Souza ,Amortecedor,490.88
+152,Jose Da Silva,Pastilha Freio,123.47
+153,Maria Oliveira,Amortecedor,55.32
+154,Jose Da Silva,Bateria 90Ah,61.04
+155,Jose Da Silva ,Amortecedor,60.85
+156,Jose Da Silva ,Pastilha Freio,291.34
+157,Maria Oliveira,Bateria 90Ah,254.53
+158,Maria Oliveira,Amortecedor ,0.0
+159,Maria Oliveira,Amortecedor Traseiro,97.99
+160,Ana Souza,Amortecedor ,0.0
+161,Jose Da Silva ,Amortecedor,30.25
+162,Maria Oliveira,Amortecedor,14.12
+163,Ana Souza,Bateria 90Ah,0.0
+164,Jose Da Silva,Bateria 90Ah,246.11
+165,Maria Oliveira,Pastilha Freio,49.99
+166,Ana Souza ,Pastilha De Freio,0.0
+167,Jose Da Silva,Amortecedor ,85.98
+168,Ana Souza,Bateria 90Ah,233.47
+169,Ana Souza,Bateria 60Ah,284.09
+170,Maria Oliveira,Pastilha Freio,0.0
+171,Maria Oliveira,Pastilha Freio Dianteira,27.75
+172,Ana Souza ,Amortecedor,23.63
+173,Ana Souza ,Pastilha Freio,20.5
+174,Ana Souza ,Amortecedor ,95.59
+175,Ana Souza ,Bateria 90Ah,373.15
+176,Jose Da Silva ,Amortecedor,25.95
+177,Ana Souza,Amortecedor Traseiro,136.97
+178,Ana Souza,Pastilha Freio,47.5
+179,Maria Oliveira,Pastilha Freio,38.38
+180,Ana Souza ,Amortecedor,0.0
+181,Ana Souza,Amortecedor ,136.94
+182,Maria Oliveira,Amortecedor,107.9
+183,Jose Da Silva,Bateria 60Ah,234.43
+184,Jose Da Silva,Bateria 60Ah,80.9
+185,Ana Souza,Pastilha De Freio,171.62
+186,Ana Souza,Bateria 60Ah,284.92
+187,Ana Souza,Amortecedor ,0.0
+188,Jose Da Silva ,Pastilha Freio Dianteira,264.47
+189,Ana Souza,Pastilha Freio Dianteira,96.15
+190,Jose Da Silva,Amortecedor,84.33
+191,Maria Oliveira,Pastilha De Freio,6.76
+192,Maria Oliveira,Pastilha Freio,0.0
+193,Maria Oliveira ,Amortecedor,0.0
+194,Ana Souza,Bateria 60Ah ,214.78
+195,Ana Souza,Bateria 60Ah,110.0
+196,Maria Oliveira,Amortecedor,8.55
+197,Jose Da Silva,Bateria 60Ah,26.98
+198,Jose Da Silva,Amortecedor,28.24
+199,Ana Souza,Pastilha Freio Dianteira,45.47
