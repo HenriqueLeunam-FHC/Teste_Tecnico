@@ -30,7 +30,6 @@ WHERE EXTRACT(YEAR FROM(o.order_date)) = 2025
 GROUP BY COALESCE(p.short_name, p.product_name), EXTRACT(YEAR FROM o.order_date)
 ORDER BY total_vendido DESC
 
-
 -- 2. Liste os 5 clientes com maior gasto total no ano de 2025.
 SELECT 
     INITCAP(LOWER(TRIM(c.customer_name))) AS nome_cliente,
@@ -45,32 +44,17 @@ ORDER BY gasto_total DESC
 LIMIT 5;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--- 2.  Liste os 5 clientes com maior gasto total no ano de 2025. 
-
 -- 3.  Quais produtos você sugere que recebam maior investimento em divulgação? 
 -- Responda com a query e com a justificativa para seleção desses produtos. 
+
+
+
+
+
+
+
+
+
 
 -- 4.  Considerando a região dos clientes, quais insights sobre logística você pode gerar?
 
